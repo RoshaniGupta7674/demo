@@ -1,0 +1,20 @@
+.popup {
+  width: 320px;
+  padding: 12px;
+  font-family: "Inter", sans-serif;
+}
+
+.risk {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.risk.low { color: #2e7d32; }
+.risk.medium { color: #f57c00; }
+.risk.high { color: #c62828; }
+
+ul {
+  margin-top: 10px;
+  padding-left: 18px;
+  font-size: 13px;
+}
